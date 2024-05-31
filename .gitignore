@@ -1,0 +1,4 @@
+# Project exclude paths
+/hello-springboot/target/
+/shardingjdbc/target/
+/sofaRPC-client/target/
